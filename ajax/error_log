@@ -1,0 +1,2 @@
+[25-Mar-2020 14:07:52 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/championsmumbai/public_html/ajax/search.php on line 22
+[25-Mar-2020 14:07:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/championsmumbai/public_html/ajax/search.php on line 25
